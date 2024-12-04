@@ -77,3 +77,58 @@ graph TD
     E --> F[Fraud Detection]
     E --> G[Gene Mutation Modeling]
     E --> H[Enterprise Applications]
+```
+
+---
+
+#### **6. Use Cases**
+
+## Use Cases
+
+### Fraud Detection
+Dynamic Relationship Expansion enables fraud detection systems to evolve and identify anomalous behaviors in real-time, reducing false positives and increasing efficiency.
+
+### Gene Mutation Modeling
+By leveraging Cube4D and AKG, Slap.ai models gene mutations dynamically, revealing relationships that static systems overlook.
+
+### Enterprise Applications
+From supply chains to healthcare, Slap.ai transforms complex systems into actionable insights, driving efficiency and reducing cost.
+
+
+## Getting Started
+
+1. Clone the Repository:
+    
+bash
+    git clone https://github.com/ConicuConsulting/SlappAI.git
+
+
+2. Install Dependencies:
+    
+bash
+    pip install -r requirements.txt
+
+
+3. Run the Example Notebook:
+    
+bash
+    jupyter notebook examples/dynamic_relationship_expansion.ipynb
+
+
+4. Explore the Framework:
+    - Review the [documentation](docs/) for details on each framework.
+
+
+## Contribute
+
+We’re building the future of intelligent systems, and we’d love your help. To contribute:
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request with detailed comments.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+
+## License
+
+This project is licensed under the CC-BY-NC-SA 4.0 License - see the [LICENSE](LICENSE) file for details.
