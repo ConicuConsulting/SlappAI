@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": "DRE",
+            "label": "Dynamic Relationship Expansion",
+            "type": "framework"
+        },
+        {
+            "id": "AGNs",
+            "label": "Active Graph Networks",
+            "type": "framework"
+        },
+        {
+            "id": "RGNNs",
+            "label": "Relational Graph Neural Networks",
+            "type": "framework"
+        },
+        {
+            "id": "Philosophy",
+            "label": "Genesis: Noun-Verb-Truth",
+            "type": "concept"
+        },
+        {
+            "id": "Fusion",
+            "label": "Nuclear Fusion Applications",
+            "type": "use_case"
+        },
+        {
+            "id": "ChaosControl",
+            "label": "Controlling Magnetic Chaos",
+            "type": "use_case"
+        }
+    ],
+    "edges": [
+        {
+            "source": "DRE",
+            "target": "AGNs",
+            "relationship": "builds on"
+        },
+        {
+            "source": "DRE",
+            "target": "RGNNs",
+            "relationship": "extends"
+        },
+        {
+            "source": "AGNs",
+            "target": "Fusion",
+            "relationship": "applies to"
+        },
+        {
+            "source": "RGNNs",
+            "target": "ChaosControl",
+            "relationship": "informs"
+        },
+        {
+            "source": "Philosophy",
+            "target": "DRE",
+            "relationship": "inspires"
+        },
+        {
+            "source": "Philosophy",
+            "target": "AGNs",
+            "relationship": "conceptually supports"
+        }
+    ]
+}
