@@ -70,9 +70,9 @@ The SlappAI ecosystem is powered by the interplay of DRE, Cube4D, and AKG, creat
 ### High-Level Diagram
 ```mermaid
 graph TD
-    A[Input Layer] --> B[Dynamic Relationship Expansion (DRE)]
-    B --> C[Temporal Layering (Cube4D)]
-    C --> D[Active Knowledge Graph (AKG)]
+    A[Input Layer] --> B[Dynamic Relationship Expansion DRE]
+    B --> C[Temporal Layering Cube4D]
+    C --> D[Active Knowledge Graph AKG]
     D --> E[Output: Actionable Insights]
     E --> F[Fraud Detection]
     E --> G[Gene Mutation Modeling]
