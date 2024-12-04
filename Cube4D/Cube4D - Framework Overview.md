@@ -1,7 +1,7 @@
 # Introducing Cube4D: A Revolution in 4D Data Programming with Active Graph Networks
 
 **Author**: Callum Maystone  
-**Date**: [Date of Publication]
+**Date**: 04/12/2024
 
 ## Overview
 
