@@ -76,13 +76,13 @@ graph TD
     E --> F[Fraud Detection]
     E --> G[Gene Mutation Modeling]
     E --> H[Enterprise Applications]
-
+```
 
 
 ---
 
 #### **6. Use Cases**
-```markdown
+
 ## Use Cases
 
 ### Fraud Detection
