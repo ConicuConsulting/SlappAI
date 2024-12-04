@@ -1,2 +1,2 @@
-# SlappAI
-SlappAI - Converting Complexity into Actionable Insights
+# SlappAI - Converting Complexity into Actionable Insights
+
