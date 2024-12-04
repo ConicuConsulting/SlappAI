@@ -99,7 +99,7 @@ From supply chains to healthcare, Slap.ai transforms complex systems into action
 
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/yourusername/slap.ai.git
+    git clone https://github.com/ConicuConsulting/slappai.git
     ```
 
 2. Install Dependencies:
@@ -128,4 +128,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC-BY-NC-SA 4.0 License - see the [LICENSE](LICENSE) file for details.
