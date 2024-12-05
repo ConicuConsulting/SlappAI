@@ -1,0 +1,27 @@
+{
+  "wallet_id": "unique_wallet_id",
+  "owner": "GitHub_username",
+  "balance": 1000,
+  "reserved_balance": 0,
+  "transactions": {
+    "in_progress": [],
+    "completed": [
+      {
+        "transaction_id": "tx001",
+        "to": "receiver_wallet_id",
+        "from": "sender_wallet_id",
+        "amount": 50,
+        "status": "completed",
+        "timestamp": "2024-12-05T12:00:00Z"
+      }
+    ]
+  },
+  "nodes": {
+    "parent": null,
+    "children": ["node1", "node2"]
+  },
+  "encryption": {
+    "public_key": "user_public_key",
+    "private_key": "encrypted_private_key"
+  }
+}
