@@ -1,0 +1,8 @@
+{
+  "last_commit_hash": "hash_of_last_commit",
+  "checksum": "checksum_of_wallet_json",
+  "validation_keys": {
+    "wallet_id": "unique_wallet_id",
+    "owner": "GitHub_username"
+  }
+}
