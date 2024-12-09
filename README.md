@@ -57,4 +57,4 @@ We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guideline
 ---
 
 ## License
-This repository is licensed under the CC BY-NC-SA 4.0 License. See [LICENSE](./LICENSE) for details.
+This repository is licensed under the CC BY-NC-SA 4.0 License. See [LICENSE](./LICENSE.md) for details.
