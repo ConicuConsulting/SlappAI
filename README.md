@@ -22,8 +22,8 @@ SlappAI is a dynamic framework leveraging advanced graph models and temporal rel
 ### Active Graph Database (AGDB)
 A database designed for relational and dynamic graph structures. [Explore AGDB](./AGDB)
 
-### Active Graph Models (AGM)
-Models that leverage AGDB for scalable, intelligent data processing. [Explore AGM](./AGM)
+### Active Graph Networks (AGN)
+Models that leverage AGDB for scalable, intelligent data processing. [Explore AGM](./AGN)
 
 ### Cube4D (Q4D)
 A temporal framework for analyzing relationships across states (resting, active, excited). [Explore Cube4D](./Q4D)
