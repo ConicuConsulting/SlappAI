@@ -32,11 +32,11 @@ Perfect numbers are mathematical curiosities that represent harmony. But their d
 ```mermaid  
 timeline  
     title The Progression of Perfect Numbers  
-    300BC  : "Measured: 6 → 1x1x1, 2x2x2 (Simple Observation)"  
-    300AD  : "Calculated: 28 → Start of Abstraction"  
-    1600s  : "496 → The Rise of Manual Calculation"  
-    1900s  : "8128 → Early Machines and Algorithms"  
-    2000s  : "Millions of Digits → Computational Complexity"  
+    300BC  : Measured: 6 → 1x1x1, 2x2x2 (Simple Observation)  
+    300AD  : Calculated: 28 → Start of Abstraction 
+    1600s  : 496 → The Rise of Manual Calculation 
+    1900s  : 8128 → Early Machines and Algorithms  
+    2000s  : Millions of Digits → Computational Complexity 
 ```  
 
 As our tools advanced (think Moore’s Law—computation doubling every two years), we didn’t move further *outward* into the universe. We zoomed **inward**, calculating ever-smaller slices of truth.  
